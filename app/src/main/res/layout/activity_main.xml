@@ -12,5 +12,6 @@
         android:layout_height="173dp"
         app:srcCompat="@drawable/camera_icon"
         tools:layout_editor_absoluteX="96dp"
+        android:onClick="openCamera"
         tools:layout_editor_absoluteY="127dp" />
 </android.support.constraint.ConstraintLayout>
